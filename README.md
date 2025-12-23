@@ -120,6 +120,8 @@ need: -0.993
 **CONFUSION MATRIX
 
 
+![Image](https://github.com/user-attachments/assets/5630d153-c175-40da-b704-63495c191231)
+
 
 
 
